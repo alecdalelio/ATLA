@@ -1,0 +1,39 @@
+body{
+    background-color: darkcyan;
+}
+
+h1{
+    font-family: fantasy;
+    font-size: 30px;
+    color: #FF7F33;
+}
+
+h2{
+    font-family: fantasy;
+    font-size: 30px;
+    color: #29ACEE;
+}
+
+h2{
+    font-family: fantasy;
+    font-size: 30px;
+    color: aquamarine;
+}
+
+.big{
+    font-size: 60px;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.big.uppercase{
+    color: black;
+}
+
+h1 span{
+    color: violet;
+    font-family: cursive;
+    font-size: 60px; 
+}
